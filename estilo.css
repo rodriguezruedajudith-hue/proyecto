@@ -1,0 +1,25 @@
+
+        *{
+            margin: 0%;
+            padding: 0%;
+        }
+         header{
+           front-family: Georgia, serif;
+            background-color: black;
+            color: rgb(19, 146, 0);
+            text-align: center;
+            text-size-adjust: calc(5em);
+            padding: 7em;
+         }
+         .encabezado{
+            background-image: url(Wallpaper\ Linkin\ Park.jpg);
+
+         }
+         main{
+            background-color: black;
+           background-image: url(fondo1.png);
+           background-size: cover;
+           background-position: center;
+           background-repeat: no-repeat;
+           min-height: 100vh;
+         }
